@@ -10,8 +10,9 @@ Projeto desenvolvido para o evento Maratona Kenzie.
 
 ## Checkpoints aulas
 
-1. [Aula 1: Introdução ao HTML e estruturação do projeto](https://kenzieacademybr.notion.site/Checkpoint-7e3482456328407ba7c3ba73e511d86e)
-2. [Aula 2: Introdução ao CSS e estilização do projeto](https://kenzieacademybr.notion.site/Checkpoint-d204c8f2f3724c24bcc8f4e67f952117)
+1. [Introdução ao HTML e estruturação do projeto](https://kenzieacademybr.notion.site/Checkpoint-9c82404fd5c04361aedae97885f2db84)
+2. [Introdução ao CSS e estilização do projeto](https://kenzieacademybr.notion.site/Checkpoint-9b0ef055024440409ee16f387aea7b1b)
+3. [Introdução ao Javascript](https://kenzieacademybr.notion.site/Checkpoint-74a6a7789ddf478e92ed2cf0ebb9cb37)
 
 ## O projeto
 
@@ -28,23 +29,21 @@ Projeto desenvolvido para o evento Maratona Kenzie.
 
 ### Fonte
 
-- 'Quicksand', sans-serif;
+- 'Roboto', sans-serif;
 
 ### Cores
 
-- Azul Principal: #2585DA;
 - Branco: #ffffff;
-- Branco com Transparência: rgb(255 255 255 / 37%);
-- Preto: #000;
-- Preto com Transparência: rgb(0 0 0 / 70%);
-
-### Sombra
-
-- box-shadow: -20px -20px 0px 0px rgba(100, 100, 100, 0.1);
+- Cinza Claro: #cccccc;
+- Cinza Mais Claro 1: #f8f8f8;
+- Cinza Mais Claro 2: #d9d9d9;
+- Cinza Mais Claro 3: #fafafa;
+- Cinza Escuro 1: rgb(49, 49, 49);
+- Cinza Escuro 2: #606060;
 
 ## Layout
 
-- [Layout Youtube - Maratona Kenzie](./assets/img/layout.png)
+- [Layout Youtube - Maratona Kenzie](./img/layout.png)
 
 ## Referências
 
