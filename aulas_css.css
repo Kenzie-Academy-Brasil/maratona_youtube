@@ -1,0 +1,87 @@
+/* CSS => Cascading StyleSheet(Folha de estilo em cascata) */
+
+/* 
+
+Anatomia do CSS
+
+seletor {
+    propriedade: valor da propriedade; => declaração CSS
+    cor: vermelho;
+} => regra CSS
+
+*/
+
+/* Tipos de seletores */
+
+/* Seletor por nome de elemento/nome de tag */
+
+header {
+    background-color: cadetblue;
+}
+
+/* p {
+    background-color: cornflowerblue;
+} */
+
+/* Seletor por classe */
+
+.textoSobreMim {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+
+/* Seletor por ID */
+
+#secaoSobreMim {
+    background-color: darkgreen;
+}
+
+/* Fontes */
+
+h2 {
+    font-family: Arial;
+    font-size: 30px;
+    color: white;
+}
+
+/* Dimensionamento => largura e altura */
+
+#secaoSobreMim{
+    /* width: 800px; */
+    /* height: 300px; */
+    /* display: inline; */
+}
+
+/* Posicionamento */
+
+a {
+    background-color: darksalmon;
+    /* width: 200px;
+    height: 200px; */
+    display: inline-block;
+}
+
+/* Flexbox */
+
+.exemplificandoFlexbox{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    height: 300px;
+    background-color: #ccc;
+}
+
+.exemplificandoFlexbox div{
+    width: 200px;
+    height: 200px;
+}
+.div1{
+    background-color: darkseagreen;
+}
+.div2{
+    background-color: darkturquoise;
+}
+.div3{
+    background-color: firebrick;
+}
