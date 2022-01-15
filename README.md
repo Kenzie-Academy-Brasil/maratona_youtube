@@ -44,7 +44,7 @@ Projeto desenvolvido para o evento Maratona Kenzie.
 
 ## Layout
 
-- [Lista de Tarefas - Maratona Kenzie](./assets/img/layout.png)
+- [Layout Youtube - Maratona Kenzie](./assets/img/layout.png)
 
 ## Referências
 
